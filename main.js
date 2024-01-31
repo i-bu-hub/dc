@@ -13,3 +13,7 @@ document.getElementById('gitHub').onclick = function() {
 document.getElementById('intro').onclick = function() {
   window.location.href = 'https://youtu.be/zdMvpjwSAMQ';
 };
+
+document.getElementById('download').onclick = function() {
+  window.location.href = '収支管理アプリ.zip';
+};
